@@ -20,7 +20,7 @@ It also sets up automatic log rotation.
 ## Install
 Run as root:
 ```bash
-git clone https://github.com/ashankobewatta/macos-unified-log-exporter.git
+git clone https://github.com/kobeash/macos-unified-log-exporter.git
 cd macos-unified-log-exporter
 chmod +x install_macsec_logger.sh
 sudo ./install_macsec_logger.sh
